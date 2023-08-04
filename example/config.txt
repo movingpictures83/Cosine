@@ -1,0 +1,2 @@
+Prefix plugins/Cosine/example/
+Plugin Cosine inputfile table.qza outputfile beta_diversity.qza
